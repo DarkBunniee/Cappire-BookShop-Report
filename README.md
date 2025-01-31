@@ -2,6 +2,8 @@
 
 Welcome to your new project.
 
+![initial Screen](./assets/image/screen%20view%2001.png)
+
 It contains these folders and files, following our recommended project layout:
 
 File or Folder | Purpose
@@ -18,6 +20,8 @@ File or Folder | Purpose
 - Open a new terminal and run `cds watch`
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
+
+![Fiori Screen](./assets/image/screen%20view%2002.png)
 
 
 ## Learn More
